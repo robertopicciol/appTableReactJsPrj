@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="appTableReactJsPrj-1.0">
+    <output-path>D:\DEVELOPMENT\09PROJECTS_ROBY66ONE\WEBAPP\TABLERACTJS\appTableReactJsPrj\build\libs</output-path>
+    <root id="archive" name="appTableReactJsPrj-1.0.jar">
+      <element id="module-output" name="appTableReactJsPrj.main" />
+    </root>
+  </artifact>
+</component>
